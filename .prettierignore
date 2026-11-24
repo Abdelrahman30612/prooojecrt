@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+package-lock.json
+design
+docs/PLAN.md
+docs/reference/ovo-legion
